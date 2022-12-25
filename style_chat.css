@@ -1,0 +1,41 @@
+
+#sens_du_chat {
+    margin-left: 15px;
+}
+#nombre_race {
+    background-color: yellow;
+}
+/* All article position */
+article {
+    text-align: center;
+}
+#media {
+    padding-bottom: 15px;
+}
+/* Picture of cat */
+.img_cat {
+    width: 500px;
+    height: 300px;
+    border: 5px solid yellow;
+}
+/* Border element table */
+caption, tr, th, td {
+    border: 2px solid;
+}
+/* Title table */
+caption {
+    font-size: 20px;
+    margin-bottom: 2em;
+    padding: 5px;
+    color: red;
+}
+/* Picture of Lion */
+.img_lion {
+    margin: 60px;
+    width: 600px;
+    height: 400px;
+    border: 5px solid yellow;
+}
+table{
+    margin: 70px;
+}
